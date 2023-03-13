@@ -1,6 +1,6 @@
 # Mouselogger
 ## Short description
-Simple WDF driver based on [moufiltr](https://github.com/microsoft/Windows-driver-samples/tree/main/input/moufiltr) by Microsoft
+Simple kernel-mode WDF driver based on [moufiltr](https://github.com/microsoft/Windows-driver-samples/tree/main/input/moufiltr) by Microsoft
 ## Author
 Paweł Langowski
 ## Installation
